@@ -17,6 +17,10 @@
   overflow-x: auto; /*Cria uma barra de rolagem no eixo x para o elemente quando tiver elementos que ocupam um tamanho maior que o da janela*/
 }
 
+#bicicleta .bicicletas-lista ul {
+  padding: 0 0 20px 0;
+}
+
 .bicicletas-lista li {
   flex: 1;
   min-width: 280px;
