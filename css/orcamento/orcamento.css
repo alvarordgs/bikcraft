@@ -75,7 +75,7 @@
   height: 12px;
   border: 1px solid var(--cor-6);
   border-radius: 50%;
-  margin-left: 8px;
+  margin-right: 8px;
 }
 
 .orcamento-produto label:hover {
